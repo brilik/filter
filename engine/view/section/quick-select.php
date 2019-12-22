@@ -1,3 +1,4 @@
+<?php  \engine\Debug::pr(get_product()); ?>
 <section class="quick-select page__quick-select">
     <div class="quick-select__container">
         <div class="quick-select__left">

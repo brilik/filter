@@ -1,5 +1,3 @@
-<?php // \engine\Debug::pr(get_product()); ?>
-<!-- food_type=Meat,Fish&wine_type=Red,White,Rose&country=La%20Mancha,Italy,Other&price_basic=60:150 -->
 <div class="quick-select__filters">
     <div class="filter-qs quick-select__filter">
         <div class="filter-qs__label">Food type</div>
